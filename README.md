@@ -1,5 +1,5 @@
 # study-platform-on-hook
-提前声明：本仓库仅用于python的selenium库的学习，请不要用于任何违规违章违法的事情上。
+提前声明：本仓库仅用于python的selenium库的挂机学习，请不要用于任何违规违章违法的事情上。
 
 功能：
 
@@ -12,9 +12,9 @@
 
 注意：
 
-      1.如果你的电脑里没有安装selenium库、os库和time库的话，请提前安装。
+      1.安装python环境（版本3），并通过pip install安装相关的模块selenium, os,time
 
-      2.如果你没有安装过chrome的驱动的话，请提前安装。可以直接百度搜索如何安装，请记住一定要正确添加到path。
+      2.下载与chrome版本对应的chromedriver：http ://chromedriver.chromium.org/ ，请记住一定要正确添加到path。
       
       3.不要对程序打开的浏览器做任何人为的操作，比如切换窗口，或者关闭窗口，你做的一切多余的操作都可能导致程序出错
       
