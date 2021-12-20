@@ -12,7 +12,7 @@
 
 注意：
 
-      1.安装python环境（版本3），并通过pip install安装相关的模块selenium, os,time
+      1.安装python环境（版本3），并通过pip install安装相关的模块selenium，还有os,time模块应该是python自带的
 
       2.下载与chrome版本对应的chromedriver：http ://chromedriver.chromium.org/ ，请记住一定要正确添加到path。
       
@@ -21,6 +21,10 @@
       4.如果需要退出程序的话，请不要直接关闭浏览器，而是应该在cmd里control + C
       
       5.为了防止网络延迟，程序设置了缓冲时间，如果你发现页面好久没有反应的话，请不要以为是程序出错了。如果真的出错，cmd会给你提示的。
+      
+      6.ATTENTION：请确保网络稳定！！如果你的网络实在拉跨，请自行调整代码里面的缓冲时间！
+      
+      7.本程序目前没有验证码登录功能，后续有空可能会添加
 
 首先，100%是python3
 
